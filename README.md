@@ -89,4 +89,5 @@ VI. [Core Mysten Tools and SDKs](https://github.com/theninthangel/awesome-sui-ga
 # Additional Notes:
 To learn more visit:
 * [Sui Documentation](https://docs.sui.io/)
+* 
 * [Gaming on Sui | Sui Documentation](https://docs.sui.io/concepts/gaming)
